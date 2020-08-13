@@ -76,7 +76,6 @@ class CalculatorNumbers {
             System.exit(2);
         }
 
-
         return mainNums;
     }
 }
