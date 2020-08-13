@@ -73,7 +73,7 @@ class CalculatorNumbers {
         if ((mainNums[0] > 10 || mainNums[0] < 1) || (mainNums[1] > 10 & mainNums[1] < 1)) {
             System.out.println("ошибка ввода числа! Числа должны быть от одного до десяти.");
             System.out.println("Программа остановлена! Попробуйте еще раз.");
-            System.exit(0);
+            System.exit(2);
         }
 
 
